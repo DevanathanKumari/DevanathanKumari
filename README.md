@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/darostegui/darostegui/main/octocat-moving.gif"  />
+<img align="right" height="180" src="https://raw.githubusercontent.com/darostegui/darostegui/main/octocat-moving.gif"  />
 
 ###
 
